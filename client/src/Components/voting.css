@@ -1,0 +1,83 @@
+.container{
+    margin-left: 0px;
+}
+
+.logout{
+    width: 80px;
+    margin-left: 47%;
+}
+
+.addpoll{
+    width: 133px;
+    margin-left: 45%;
+}
+
+.r1{
+    text-align: center;
+    width: 120.92%;
+    background-color: #6c757d;
+    padding-bottom: 5px;
+}
+
+.r2{
+    text-align: center;
+    width: 120.92%;
+    height: 100px;
+    background-color: #198754;
+    padding-bottom: 10px;
+}
+.r3{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: 30%;
+    width: 60%;
+    background-color: white;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+
+::selection{
+  background: #d5bbf7;
+}
+.card{
+    max-width: 80%;
+    width: 100%;
+    margin: 30px auto;
+    background: #fcfc8d;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.vote{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+    
+}
+
+.chart{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 15px;
+}
+
+.option{
+    margin-top: 5px;
+}
+
+label{
+    text-align: left;
+}
+
+.form-check-input{
+    border: 1px solid;
+}
+
+.progess-bar{
+    color: black;
+}
+
+.close{
+    margin-left: 95.2%;
+}

@@ -1,0 +1,19 @@
+p{
+    font-size: 20px;
+}
+
+.body{
+    background-color: #198754;
+}
+
+.login{
+    margin-left: 75%;
+    width: 10%;
+    background-color: #6c757d;
+}
+
+.register{
+    margin-left: 3%;
+    width: 10%;
+    background-color: #6c757d;
+}
